@@ -29,6 +29,7 @@ Slight Casualties: Indicates the number of slight injuries reported in accidents
 The dashboard features a variety of visualizations to facilitate data exploration and analysis:
 
 **Sparklines:** Utilized to display trends in accident severity over time, allowing users to identify patterns and fluctuations.
+
 **Map Visualization:** Geospatial representation of accidents, providing insights into accident hotspots and distribution across regions.
 
 **Pie Chart:** illustrates the distribution of accident severity categories (e.g., fatal, serious, slight) across various weather conditions.
