@@ -35,5 +35,9 @@ Pie Chart: illustrates the distribution of accident severity categories (e.g., f
 
 Bar Chart: depicts the distribution of accident severity categories across different road surface types, enabling users to compare the impact of road conditions on accident severity.
 
+To view these Tableau Dashboards in Tableau Public, click on the hypertext link.
+https://public.tableau.com/app/profile/vaggelis.batagias/viz/RoadAccidentDashboard_17112050371120/RoadAccidentDashBoard
+
+
 
 ![Road Accident Viz](https://github.com/Vagba/Road-Accident-Analysis/assets/119165421/d51861aa-d910-4b3b-ac07-1d5543a239f1)
